@@ -4,7 +4,7 @@
 
 Given you have conda installed in MacOS/Windows, type in your terminal:
   ```
-  git clone https:...
+  git clone https://github.com/Shinibali/scalar-field-assignment.git
   conda env create -f environment.yml
   conda activate trading
   ```
